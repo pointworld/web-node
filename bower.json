@@ -1,0 +1,27 @@
+{
+  "name": "web",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "point"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "koa",
+    "async",
+    "MVC",
+    "nunjucks"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vue": "^2.5.2"
+  }
+}
